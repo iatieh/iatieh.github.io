@@ -3,10 +3,10 @@ title: 'Launching Into CyberSecurity'
 subtitle: 'January 2023'
 date: 2018-06-30 00:00:00
 description: Tthis module provides a high-level introduction/overview of the topics covered in greater detail in other modules of the Master's programme.
-featured_image: '/images/demo/demo1_sec.jpg'
+featured_image: '/images/demo/sec1.jpg'
 ---
 
-![](/images/demo/demo1_sec.jpg)
+![](/images/demo/sec1.jpg)
 
 ## Demo content
 
