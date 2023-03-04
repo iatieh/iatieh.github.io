@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Launching Into CyberSecurity'
+subtitle: 'January 2023'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Tthis module provides a high-level introduction/overview of the topics covered in greater detail in other modules of the Master's programme.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
