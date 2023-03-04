@@ -6,7 +6,7 @@ description: Tthis module provides a high-level introduction/overview of the top
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/demo1_sec.jpeg)
 
 ## Demo content
 
