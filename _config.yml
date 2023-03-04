@@ -1,7 +1,7 @@
 site: Iyad Atieh
 
-url: https://iatieh.github.io/
-baseurl: https://iatieh.github.io/
+url:
+baseurl:
 
 collections:
   pages:
