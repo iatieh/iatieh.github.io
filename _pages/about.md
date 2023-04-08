@@ -13,6 +13,3 @@ projects, and corporate IT initiatives while participating in yearly planning, a
 implementation of solutions in support of business objectives. Skilled in leading and motivating
 individuals to maximize levels of productivity. Establishing and improving organizational
 structures, processes, and aligning technical activities with business strategies.
-
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
