@@ -7,9 +7,9 @@ featured_image: '/images/download.jpeg'
 
 ![](/images/post1.png)
 
-## Summary of the first colloborative activity
+## Summary of Collaborative Learning Discussion 1
 
-Summarising the overall peers' posts, everyone agreed on the worldwide impact of cybersecurity and how cybersecurity has become a global challenge. At the same time, all industries are under the cybersecurity risks and bad actors’ threats in all regions. I have learned about new cybersecurity incidents I had never heard about that gave better ideas on recent data breaches' causes and impact on people and organisations.
+ Everyone agreed on the worldwide impact of cybersecurity and how cybersecurity has become a global challenge. At the same time, all industries are under the cybersecurity risks and bad actors’ threats in all regions. I have learned about new cybersecurity incidents I had never heard about that gave better ideas on recent data breaches' causes and impact on people and organisations.
 
 Blessing's posts remind me of the WannaCry ransomware; this was the first ransomware attack that got the attention of many organisations. And it was a perfect example that a cyberattack would target any industry, including health care. For example, Britain's National Health Services (NHS) was one of the most impacted organization by this attack. And from here, every organisation started questioning their readiness for such an attack and whether they had the right backup tools and processes to recover in case their data got encrypted with Ransomware.
 
