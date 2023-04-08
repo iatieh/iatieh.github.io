@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: MSc CyberSecurity E-Portfolio.
+  footer_tagline: MSc Cyber Security E-Portfolio.
 
 hero_settings:
   overlay_opacity: 0.8
