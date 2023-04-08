@@ -29,7 +29,7 @@ GeeksforGeeks (2021) Defense in Depth Strategy in Microsoft Azure. Available at:
 
 Cybersecurity Spotlight - Defense in Depth (DiD) (2021b). Available at: https://www.cisecurity.org/insights/spotlight/cybersecurity-spotlight-defense-in-depth-did.
 
-cloudflare. (no date) What is defense in depth? | Layered security. Available at: https://www.cloudflare.com/en-gb/learning/security/glossary/what-is-defense-in-depth/ (Accessed: March 19, 2023).
+cloudflare.(no date) What is defense in depth? | Layered security. Available at: https://www.cloudflare.com/en-gb/learning/security/glossary/what-is-defense-in-depth/ (Accessed: March 19, 2023).
 
 ---
 
