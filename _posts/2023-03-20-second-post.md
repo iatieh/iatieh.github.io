@@ -23,7 +23,7 @@ An effective defense in depth strategy should cover both network and software se
 
 In Conclusion, cyber-attacks have become more sophisticated and diverse, targeting all levels of IT infrastructure and application; the cybersecurity community has to apply the same level of security to all layers involved in provided technologies considering the development happening on the attack methods. 
 
-References :
+#H3 References :
 
 GeeksforGeeks (2021) Defense in Depth Strategy in Microsoft Azure. Available at: https://www.geeksforgeeks.org/defense-in-depth-strategy-in-microsoft-azure/.
 
