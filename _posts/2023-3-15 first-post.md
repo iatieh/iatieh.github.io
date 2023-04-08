@@ -2,7 +2,7 @@
 title: 'Importance of Cyber Security'
 date: 2023-03-15 00:00:00
 description: This is the first post in the module "launching into Cyber Security" .
-featured_image: '/images/download.jepg'
+featured_image: '/images/download.jpeg'
 ---
 
 ![](/images/post1.png)
