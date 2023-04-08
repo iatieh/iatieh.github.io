@@ -5,7 +5,7 @@ description: This is the second post in the module "launching into Cyber Securit
 featured_image: '/images/CyberTech.jpeg'
 ---
 
-![](/images/cyberTech2.jpeg)
+![](/images/cybertech2.jpeg)
 
 ## Summary of Collaborative Learning Discussion 2
 
