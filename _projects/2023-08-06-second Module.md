@@ -30,3 +30,12 @@ Unit 4: Breach Analysis and Mitigation
 
 In this unit, we will use the techniques covered so far to review and evaluate security breaches and formulate responses to typical attacks. We will also review the suite of tools contained in the Kali Linux distribution that are focused on security assessments and testing.
 
+
+Unit 5: Logging, Forensics and Future Trends
+
+In this unit, we will discuss two topics key to breach investigation and resolution: logging and forensics. We will look at the differences between logging on Windows and Linux systems and review key tools used in logging. We will also review the types of investigation that can be carried out using common forensic tools.
+
+Unit 6: The Great Debate: The Future of the Internet
+
+The final unit of this module. This week aims to bring together the various threads and lessons discussed in the module to answer the question: what is the future of the internet? In answering this question, you should consider technical and security considerations as well as social, legal and privacy challenges.
+
