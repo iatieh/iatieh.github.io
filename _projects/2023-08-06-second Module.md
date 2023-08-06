@@ -6,7 +6,7 @@ description: In this module we will look at the impact of cyber security on netw
 featured_image: '/images/demo/sec1.jpg'
 ---
 
-![](/images/demo/sec1.jpg)
+![](/images/demo/Network_sec.jpg)
 
 ## Network Security
 
