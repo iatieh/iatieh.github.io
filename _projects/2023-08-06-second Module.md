@@ -3,7 +3,7 @@ title: 'Network Security'
 subtitle: 'May 2023'
 date: 2018-06-30 00:00:00
 description: In this module we will look at the impact of cyber security on network systems and designs, focusing especially on network vulnerability assessments.
-featured_image: '/images/demo/sec1.jpg'
+featured_image: '/images/demo/Network_sec.jpg'
 ---
 
 ![](/images/demo/Network_sec.jpg)
