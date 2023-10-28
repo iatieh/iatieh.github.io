@@ -6,7 +6,7 @@ description: In this module, we will examine the numerous overlaps and interacti
 featured_image: '/images/demo/Risk1.jpg'
 ---
 
-![](/images/demo/Risk1.jpg)
+![](/images/demo/Risk2.jpg)
 
 ## Security And Risk Management
 
