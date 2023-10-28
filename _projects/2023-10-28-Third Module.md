@@ -1,12 +1,12 @@
 ---
-title: 'Network Security'
-subtitle: 'May 2023'
+title: 'Security and Risk Management'
+subtitle: 'August 2023'
 date: 2018-06-30 00:00:00
-description: In this module we will look at the impact of cyber security on network systems and designs, focusing especially on network vulnerability assessments.
-featured_image: '/images/demo/Network_sec.jpg'
+description: In this module, we will examine the numerous overlaps and interactions between security and risk. We'll examine both qualitative and quantitative approaches to risk assessment. In addition to discussing a number of conventional risk models (such as STRIDE, DREAD, and Attack Trees), we will also examine the growing trend toward hybrid models. 
+featured_image: '/images/demo/Risk1.jpg'
 ---
 
-![](/images/demo/Network_sec.jpg)
+![](/images/demo/Risk1.jpg)
 
 ## Security And Risk Management
 
