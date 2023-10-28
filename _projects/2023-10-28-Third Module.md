@@ -56,4 +56,3 @@ Threat Modelling:
 Assigement 2
 Disaster Recovery Design (AWS-DR):
 ![img.png](img.png)
-
