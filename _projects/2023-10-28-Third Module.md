@@ -8,9 +8,7 @@ featured_image: '/images/demo/Risk1.jpg'
 
 ![](/images/demo/Risk2.jpg)
 
-## Security And Risk Management
-
-# Introduction
+## Introduction
 
 In the contemporary era of digitalization, there has been a swift and widespread integration of digital technologies, leading to a significant shift in company operations from manual and labor-intensive procedures to automated and structured processes. The prominence of security and risk management has become paramount, exerting a significant influence on the operations of enterprises, governments, and individuals.
 
@@ -18,7 +16,7 @@ During the course of my academic studies in the security and risk management mod
 
 This reflective analysis aims to examine my understanding, individual development, and the consequences associated with security and risk management.
 
-# Modules Overview
+## Modules Overview
 
 Throughout the team communication, I made a significant contribution by actively engaging in extended deliberations. I demonstrated my practical understanding regarding the substantial ramifications of the Industry 4.0 revolution and its revolutionary consequences on organizational operations. The adoption of business transformation techniques has proven to be advantageous. However, it is important to acknowledge that this implementation also increases the potential risks that organizations may encounter if they fail to adequately examine information security measures and legislation.
 
@@ -28,7 +26,7 @@ In this module, i have examined a compilation of prevalent information security 
 
 A comprehensive examination was conducted on the subject of Disaster Recovery (DR), with a subsequent analysis of the influence that Recovery Point Objective (RPO) and Recovery Time Objective (RTO) values have on the execution of DR strategies. Furthermore, it is essential to acknowledge the significant role that information security plays in mitigating risks and enhancing the recovery process in the event of a security incident.
 
-# Projects Reflections
+## Projects Reflections
 
 The module's project was divided into two primary tasks, which demanded the submission of two reports pertaining to the digital and automated transformation of the Pampered Pets enterprise. Where I was part of delivering the use case reports in collaboration with my group members. In the initial assignment, our team was tasked with preparing a report for a firm that is contemplating a business transformation through the implementation of an online e-commerce shop and the integration of digital technologies to streamline its supply chain operations. This report serves as a practical exercise aimed at delivering a risk assessment report that focuses on the analysis and identification of business risks in the context of digital transformation. In this section, qualitative analysis was applied to emphasize the risks associated with the business. Additionally, threat modeling analysis was conducted utilizing two approaches, including STRIDE and DREAD. The assessment of the possible digitalization process was conducted in accordance with ISO 27005 and GDPR standards, using threat modeling research. This experience has significantly influenced my comprehension of these standards and their practical application. Particularly interesting was the integration of two threat modeling methods, particularly STRIDE and DREAD, to evaluate potential threats based on their types and assess their associated risk scores. This integration has proven to be a valuable source of knowledge and learning for me. 
 
@@ -38,11 +36,11 @@ Furthermore, in the given scenario, the primary stakeholder involved in the comp
 
 Finally, I have conducted an analysis and engaged in discussions with the team regarding the prospective security trends and risks in light of recent advancements in technology, particularly the disruptive impact of Artificial Intelligence (AI) and Machine Learning on the overall industry. Additionally, we have examined how systems have assumed a more significant role in business deliberations. This inquiry pertains to the potential impact of a specific factor on cybersecurity risks, as well as the appropriate measures to address such risks.
 
-# Summary
+## Summary
 
 In summary, the security and risk management module has significantly influenced my understanding and cognitive approach towards risk assessment. This was achieved through engaging in discussions and actively implementing various risk assessments within practical scenarios. Additionally, the individual's contributions have facilitated the comprehension of novel technologies and methodologies for addressing the aforementioned hazards. This underscores the need of conducting early risk assessments for new projects and consistently undertaking risk assessments throughout the business lifecycle, as it enables organizations to effectively pursue their objectives while minimizing disruptions.
 
-# References
+### References
 
 *Qualitative vs. Quantitative Risk Assessment* (2021). https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2021/qualitative-vs-quantitative-risk-assessment.
 
