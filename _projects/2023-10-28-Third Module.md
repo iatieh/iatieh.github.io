@@ -46,13 +46,3 @@ In summary, the security and risk management module has significantly influenced
 
 *Qualitative vs. Quantitative Risk Assessment* (2021). https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2021/qualitative-vs-quantitative-risk-assessment.
 
-# Artifacts
-
-Assigement 1
-
-Threat Modelling:
-![img_1.png](img_1.png)
-
-Assigement 2
-Disaster Recovery Design (AWS-DR):
-![img.png](img.png)
