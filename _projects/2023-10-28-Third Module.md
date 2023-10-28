@@ -8,7 +8,7 @@ featured_image: '/images/demo/Network_sec.jpg'
 
 ![](/images/demo/Network_sec.jpg)
 
-## Network Security
+## Security And Risk Management
 
 During this module, We will discuss techniques that can be used to scan, evaluate and in some case mitigate network vulnerabilities. It also will consider the area of vulnerability assessments and explain the various mechanisms and approaches encapsulated in the Vulnerability Assessment Continuum.
 
