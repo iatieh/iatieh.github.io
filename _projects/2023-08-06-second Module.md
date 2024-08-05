@@ -14,11 +14,11 @@ During this module, We will discuss techniques that can be used to scan, evaluat
 
 
 
-Unit 1: History of Network Security, Vulnerabilities and Approaches:
+Unit 1: History of Network Security, Vulnerabilities and Approaches
 
 In this unit, we will review the history of network security and vulnerabilities and relate it to the modern landscape. We will also discuss some security best practices and review the Cyber Kill Chain model proposed by Lockheed Martin (Hutchins et al, 2011), which was based on a study of contemporary breach approaches.
 
-Unit 2: Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study:
+Unit 2: Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study
 
 In this unit, we will revisit the Cyber Kill Chain model proposed by Lockheed Martin (Hutchins et al, 2011) and apply it to a modern case study - the solar winds exploit (Temple-Raston, 2021) to explore if the well-known Cyber Kill Chain model is still as applicable for the analysis of modern Advanced Persistent Threats (APTs).
 
