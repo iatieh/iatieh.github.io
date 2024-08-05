@@ -1,11 +1,9 @@
 basic_settings:
   site_title: Iyad Atieh
-  favicon_image: /images/favicon.png
-
+  favicon_image: /images/demo/Panther1.jpg
 header_settings:
   logo_image: 
   logo_width: 200
-
 menu_settings:
   menu_items:
     - title: 'Modules'
