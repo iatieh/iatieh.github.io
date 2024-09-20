@@ -1,8 +1,8 @@
 ---
-title: 'Network Security'
-subtitle: 'May 2023'
-date: 2018-06-30 00:00:00
-description: In this module we will look at the impact of cyber security on network systems and designs, focusing especially on network vulnerability assessments.
+title: 'Research Methods and Professional Practice'
+subtitle: 'July 2024'
+date: 2024-09-20 00:00:00
+description: This module aims to provide you with a practical foundation in research methods that will enable you to conduct research in a practical setting.
 featured_image: '/images/demo/Network_sec.jpg'
 ---
 
