@@ -10,8 +10,6 @@ featured_image: '/images/demo/Research.jpg'
 
 ## Research Methods and Professional Practice
 
-During this module, We will discuss techniques that can be used to scan, evaluate and in some case mitigate network vulnerabilities. It also will consider the area of vulnerability assessments and explain the various mechanisms and approaches encapsulated in the Vulnerability Assessment Continuum.
-
 During this module, We will discuss essential skills for conducting independent research and applying professional practices in the field. It covers research methodologies (qualitative, quantitative, and mixed methods), data collection and analysis, and the ethical considerations necessary for maintaining research integrity. The module also focuses on professional skills like project management, effective communication, and reflective practice, while guiding students in developing research proposals and preparing for dissertations. Ultimately, it bridges theoretical knowledge with practical application, preparing students for research-intensive academic or professional careers.
 
 Multiple reflections and discussions will be conducted while progressing through the module units.
