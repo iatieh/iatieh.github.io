@@ -8,15 +8,16 @@ featured_image: '/images/demo/research.jpg'
 
 ![](/images/demo/Network_sec.jpg)
 
-## Network Security
+## Research Methods and Professional Practice
 
 During this module, We will discuss techniques that can be used to scan, evaluate and in some case mitigate network vulnerabilities. It also will consider the area of vulnerability assessments and explain the various mechanisms and approaches encapsulated in the Vulnerability Assessment Continuum.
 
+During this module, We will discuss essential skills for conducting independent research and applying professional practices in the field. It covers research methodologies (qualitative, quantitative, and mixed methods), data collection and analysis, and the ethical considerations necessary for maintaining research integrity. The module also focuses on professional skills like project management, effective communication, and reflective practice, while guiding students in developing research proposals and preparing for dissertations. Ultimately, it bridges theoretical knowledge with practical application, preparing students for research-intensive academic or professional careers.
 
+Multiple reflections and discussions will be conducted while progressing through the module units.
 
-Unit 1: History of Network Security, Vulnerabilities and Approaches:
+Unit 1: [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](https://iatieh.github.io/blog/m3-post4):
 
-In this unit, we will review the history of network security and vulnerabilities and relate it to the modern landscape. We will also discuss some security best practices and review the Cyber Kill Chain model proposed by Lockheed Martin (Hutchins et al, 2011), which was based on a study of contemporary breach approaches.
 
 Unit 2: Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study
 
