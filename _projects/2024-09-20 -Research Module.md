@@ -18,7 +18,14 @@ Multiple reflections and discussions will be conducted while progressing through
 
 [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](https://iatieh.github.io/blog/m7-post1)
 
-## Unit 2
+## Unit 3
+
+[e-Portfolio Activity: Research Proposal Review](https://iatieh.github.io/blog/m7-post2)
+
+## Unit 5
+
+[Reflection on Data Misuse Through Online Surveys: The Case of Cambridge Analytica](https://iatieh.github.io/blog/m7-post3)
+
 
 
 
