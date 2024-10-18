@@ -18,5 +18,7 @@ Multiple reflections and discussions will be conducted while progressing through
 
 [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](https://iatieh.github.io/blog/m7-post1)
 
+## Unit 2
+
 
 
