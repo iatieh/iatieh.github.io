@@ -37,3 +37,7 @@ Multiple reflections and discussions will be conducted while progressing through
 ## Unit 9
 
 [Validity and Generalisability in Research](https://iatieh.github.io/blog/m7-post6)
+
+## End of Module Assignment
+
+[End of Module Assignment: Module Reflection](https://iatieh.github.io/blog/m7-post7)
