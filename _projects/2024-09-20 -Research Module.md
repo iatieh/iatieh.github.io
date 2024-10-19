@@ -26,6 +26,14 @@ Multiple reflections and discussions will be conducted while progressing through
 
 [Reflection on Data Misuse Through Online Surveys: The Case of Cambridge Analytica](https://iatieh.github.io/blog/m7-post3)
 
+## Unit 7
 
+[Inferential Statistics and Hypothesis Testing](https://iatieh.github.io/blog/m7-post4)
 
+## Unit 8
 
+[Data Analysis and Visualization](https://iatieh.github.io/blog/m7-post5)
+
+## Unit 9
+
+[Validity and Generalisability in Research](https://iatieh.github.io/blog/m7-post6)
