@@ -2,7 +2,7 @@
 title: 'Research Methods and Professional Practice'
 subtitle: 'July 2024'
 date: 2024-09-20 00:00:00
-description: This module aims to provide you with a practical foundation in research methods that will enable you to conduct research in a practical setting.
+description: This module aims to provide a practical foundation in research methods that will enable researchers to conduct research in a practical setting.
 featured_image: '/images/demo/Research.jpg'
 ---
 
